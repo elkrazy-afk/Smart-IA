@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Smart IA site</title>
+		</head>
+		<FRED KORNEL>Bienvenue sur Smart IA site !<h1>
+			<p>ceci est mon tout premier paragraphe en HTML.<P>
+				</body>
+				</html>
+				<P>Smart IA est une intelligence artificielle créer pour améliorer le quotidien des humains
+				<head>production de services tels chatgpt.<command type="command" label="" icon="" /> />
+				<h1></h1>smart IA un compagnon pour l’avenir
+				<p></p>smart IA est la pour vous suivre au quotidien dans vos taches et vos exercices
+		
